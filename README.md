@@ -64,5 +64,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 - [Whisper ASR](https://github.com/openai/whisper) - The Automatic Speech Recognition system by [OpenAI](https://openai.com/).
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A command-line program to download videos from YouTube and other sites.
-
-The primary script file for this program is yt_txt.py.
