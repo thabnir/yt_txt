@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import time
 import yt_dlp
@@ -54,8 +55,8 @@ def main():
     )
     parser.add_argument(
         "--model",
-        default="tiny",
-        help="tiny.en, tiny, base.en, base, small.en, small, medium.en, medium, large-v1, large-v2, large. Default: tiny",
+        default="medium",
+        help="tiny.en, tiny, base.en, base, small.en, small, medium.en, medium, large-v1, large-v2, large. Default: medium",
     )
     parser.add_argument(
         "--language",
